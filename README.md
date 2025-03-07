@@ -1,1 +1,1 @@
-# Finding-the-second-largest-number-and-thirdi-largest-n-the-array
+# Finding-the-second-largest-number-and-third-largest-n-the-array
